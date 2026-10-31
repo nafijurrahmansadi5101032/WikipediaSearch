@@ -37,5 +37,4 @@ wikipedia-search-app/
 ├── css/
 │   └── style.css
 ├── index.html
-├── LICENSE
 └── README.md
